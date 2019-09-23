@@ -1,5 +1,5 @@
 {
   "deploy": {
-    "goal": "repackage"
+    "goal": "spring-boot:run"
   }
 }
